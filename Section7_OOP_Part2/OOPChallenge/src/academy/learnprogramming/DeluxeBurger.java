@@ -1,8 +1,6 @@
 package academy.learnprogramming;
 
-/**
- * Created by dev on 11/08/15.
- */
+
 public class DeluxeBurger extends Hamburger {
     public DeluxeBurger() {
         super("Deluxe", "Sausage & Bacon", 14.54, "White");

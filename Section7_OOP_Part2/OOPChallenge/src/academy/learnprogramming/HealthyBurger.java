@@ -1,8 +1,6 @@
 package academy.learnprogramming;
 
-/**
- * Created by dev on 11/08/15.
- */
+
 public class HealthyBurger extends Hamburger {
 
     private String healthyExtra1Name;
