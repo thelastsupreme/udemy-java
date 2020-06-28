@@ -22,6 +22,12 @@ public class MapProgram{
             languages.put("Java","new overwrite");
         }
         System.out.println("==================================");
+
+        //languages.remove("Lisp"); //to remove using key
+        languages.remove("Algol","checking val"); //to remove a particular key value pair //returns a boolean
+
+        languages.replace("Lisp","replacement");
+
         for (String key:languages.keySet()) {
             System.out.println(key+" : "+languages.get(key));
         }
