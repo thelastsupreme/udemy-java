@@ -1,0 +1,2 @@
+* how to use intellij for javafx apps(download external libs)
+* using a gui builder for gui
